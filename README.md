@@ -6,7 +6,7 @@
 
 #### Desafio proposto:
 
-Testando um projeto de crowdfunding ( vaquinha online ) desenvolvida em .NET Core com a arquitetura MVC.
+Testando um projeto de crowdfunding ( vaquinha online ) desenvolvida em .NET Core com a arquitetura MVC.</br>
 
 
 
@@ -27,7 +27,7 @@ Regressão: garante integridade de versões passadas
 Processo de automatização é caro: selecionar
 funcionalidades.
 
-
+</br></br>
 
 #### MVC - Model - View - Controller
 
@@ -40,7 +40,7 @@ funcionalidades.
 
 
 
-
+</br></br>
 #### Estrutura do Projeto
 
 ------
@@ -50,7 +50,7 @@ funcionalidades.
 
 
 
-
+</br></br>
 #### Desenvolvimento Orientado a Testes
 
 ------
