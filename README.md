@@ -1,6 +1,6 @@
 <img src="img/ico.png" width="80"/>
 
-## Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+<h2> Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding </h2>
 
 <hr>
 
@@ -45,7 +45,7 @@ funcionalidades.
 
 ------
 
-<img src="D:\PROJETOS\DIO\Vaquinha_Tests\img\Estrutura.png" style="zoom:50%;" />
+<img src="img\Estrutura.png" style="zoom:50%;" />
 
 
 
@@ -55,7 +55,7 @@ funcionalidades.
 
 ------
 
-<img src="D:\PROJETOS\DIO\Vaquinha_Tests\img\Desenvolvimento.png" style="zoom:60%;" />
+<img src="img\Desenvolvimento.png" style="zoom:60%;" />
 
 
 
