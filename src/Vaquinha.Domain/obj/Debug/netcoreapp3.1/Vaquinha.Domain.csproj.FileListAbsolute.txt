@@ -1,0 +1,9 @@
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\PROJETOS\DIO\Vaquinha_Tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
